@@ -1,0 +1,11 @@
+Height (cm), Weight (kg), Age, Name (Chinese), Ethnicity, ID Number, DNA Sequencing, Blood Type, Suspicious, Suspicion Level, Location Recently Visited, HLA Types
+167, 68, 28, 张明 (Zhang Ming), Han, 123456789, AGCTTCGGAAGGCTTACG, A+, False, 15, Gym, A*01:01;B*08:01;DRB1*03:01
+175, 75, 35, 王丽 (Wang Li), Han, 987654321, TACGGATTCGGAAGGCTA, B-, True, 80, Coffee Shop, A*02:01;B*07:02;DRB1*11:01
+172, 62, 42, قەدىر (Qadir), Uighur, 456789123, GGTTACGGATTCGGAAG, AB+, False, 5, Beach, A*24:02;B*15:01;DRB1*13:02
+160, 55, 20, نۇرىددىن (Nuriddin), Uighur, 789123456, CGGAAGGCTTACGGATT, O+, False, 30, College Campus, A*03:01;B*18:01;DRB1*01:01
+180, 82, 45, ئۇيغۇر (Uyghur), Uighur, 321654987, A-, True, 95, Office, A*11:01;B*51:01;DRB1*15:01
+165, 70, 32, 赵伟 (Zhao Wei), Han, 654789321, TTCGGAAGGCTTACGGAT, AB+, True, 70, Park, A*02:01;B*07:02;DRB1*11:01
+173, 68, 55, ئارىپ (Arip), Uighur, 852963741, GCTTACGGATTCGGAAG, O-, False, 10, Coffee Shop, A*02:01;B*40:01;DRB1*14:01
+178, 80, 38, 王磊 (Wang Lei), Han, 159357852, CTACGGATTCGGAAGGC, B+, False, 25, Office, A*03:01;B*35:01;DRB1*03:01
+168, 60, 27, 赵敏 (Zhao Min), Han, 369258147, GATTCGGAAGGCTTACG, O+, True, 35, Restaurant, A*02:01;B*07:02;DRB1*11:01
+172, 73, 31, 乌鲁木齐 (Wulumuqi), Kazakh, 753951456, CGGATTCGGAAGGCTTA, A-, True, 85, Shopping Mall, A*03:01;B*35:01;DRB1*03:01
